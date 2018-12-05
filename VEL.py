@@ -1,6 +1,4 @@
 
-import numpy as np
-import FOBJ
 import random
 #random.seed(1)
 
