@@ -15,6 +15,10 @@ def VE(x,VEL,BEST,pbest,W,C1,C2):
 
 
 '''
+
+import numpy as np
+import random
+
 def VE(X,VEL,BEST,PBEST,W,C1,C2):
     rows = len(X)
     cols = len(X[0])
