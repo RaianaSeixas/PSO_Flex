@@ -1,11 +1,5 @@
-
-"""
-Created on Fri Dec 06 2017
-@author: ucfilho
-"""
-import os
-os.chdir('C:\\Users\\raiana\\Data file\\doutorado py\\PSO_new')
-
+#import os
+#os.chdir('C:\\Users\\...')
 
 import copy
 import pandas as pd
